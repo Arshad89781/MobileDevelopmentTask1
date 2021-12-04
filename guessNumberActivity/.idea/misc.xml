@@ -3,9 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProjects/guessingNumberGame/app/src/main/res/drawable/button_background.xml" value="0.10185185185185185" />
-        <entry key="..\:/AndroidStudioProjects/guessingNumberGame/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/AndroidStudioProjects/guessingNumberGame/app/src/main/res/layout/activity_results.xml" value="0.13489583333333333" />
+        <entry key="..\:/AndroidStudioProjects/guessNumberActivity/app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="..\:/AndroidStudioProjects/guessNumberActivity/app/src/main/res/layout/activity_result_screen.xml" value="0.1796875" />
       </map>
     </option>
   </component>
